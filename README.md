@@ -66,11 +66,11 @@ In the game, players control a knight with the following mechanics:
 
 ## 🖼️ Images
 
-<img width="1920" height="1080" alt="knight1" src="https://github.com/user-attachments/assets/3826533c-a83b-47a5-807a-5324d2657218" />
+<img width="400" alt="knight1" src="https://github.com/user-attachments/assets/3826533c-a83b-47a5-807a-5324d2657218" />
 
-<img width="1920" height="1080" alt="knight2" src="https://github.com/user-attachments/assets/48d4b829-d97b-406d-913c-2b5ecb7b49df" />
+<img width="400" alt="knight2" src="https://github.com/user-attachments/assets/48d4b829-d97b-406d-913c-2b5ecb7b49df" />
 
-<img width="1920" height="1080" alt="knight3" src="https://github.com/user-attachments/assets/b5eec3b9-5945-48ef-8602-7f5e83dbf40c" />
+<img width="1920" alt="knight3" src="https://github.com/user-attachments/assets/b5eec3b9-5945-48ef-8602-7f5e83dbf40c" />
 
 
 ---
