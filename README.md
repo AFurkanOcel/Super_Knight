@@ -81,7 +81,6 @@ In the game, players control a knight with the following mechanics:
 
 ### **Audio**:  
 - Sound Effects: [https://assetstore.unity.com/packages/audio/sound-fx/rpg-essentials-sound-effects-free-227708](https://assetstore.unity.com/packages/audio/sound-fx/rpg-essentials-sound-effects-free-227708)  
-- Game Music From: shazamla arat ve müziğin linkini ekle!
 
 ### **Voice Actors**
 - **Knight**: A. Furkan Öcel  
