@@ -250,7 +250,7 @@ https://assetstore.unity.com/packages/audio/sound-fx/rpg-essentials-sound-effect
 
 ### Voice
 
-- Knight voice clips: **A. Furkan Ocel**
+- Knight voice clips: **A. Furkan ÖCEL**
 
 ---
 
@@ -288,7 +288,7 @@ Compiled game builds are not stored in the source repository. Release builds sho
 
 ### Game Development
 
-**A. Furkan Ocel**
+**A. Furkan ÖCEL**
 
 GitHub: https://github.com/KayzerFurkan04
 
