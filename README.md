@@ -33,11 +33,11 @@ The gameplay loop is built around:
 - defeating regular enemies before reaching the boss,
 - winning by defeating the skeleton boss or losing when the knight's health runs out.
 
-<img width="800" alt="Super Knight gameplay screenshot 1" src="https://github.com/user-attachments/assets/3826533c-a83b-47a5-807a-5324d2657218" />
+<img width="800" alt="Super Knight gameplay screenshot 1" src="Assets/screenshots/gameplay-1.png" />
 
-<img width="800" alt="Super Knight gameplay screenshot 2" src="https://github.com/user-attachments/assets/48d4b829-d97b-406d-913c-2b5ecb7b49df" />
+<img width="800" alt="Super Knight gameplay screenshot 2" src="Assets/screenshots/gameplay-2.png" />
 
-<img width="800" alt="Super Knight gameplay screenshot 3" src="https://github.com/user-attachments/assets/b5eec3b9-5945-48ef-8602-7f5e83dbf40c" />
+<img width="800" alt="Super Knight gameplay screenshot 3" src="Assets/screenshots/gameplay-3.png" />
 
 ---
 
@@ -61,6 +61,10 @@ Super_Knight/
 |   |   |-- game.unity
 |   |   |-- victory.unity
 |   |   `-- defeat.unity
+|   |-- screenshots/
+|   |   |-- gameplay-1.png
+|   |   |-- gameplay-2.png
+|   |   `-- gameplay-3.png
 |   |-- scripts/
 |   |   |-- maincode.cs
 |   |   |-- animationcode.cs
