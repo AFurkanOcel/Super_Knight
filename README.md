@@ -294,8 +294,6 @@ Compiled game builds are not stored in the source repository. Release builds sho
 
 **A. Furkan ÖCEL**
 
-GitHub: https://github.com/KayzerFurkan04
-
 ---
 
 ## License
