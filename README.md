@@ -62,9 +62,6 @@ Super_Knight/
 |   |   |-- victory.unity
 |   |   `-- defeat.unity
 |   |-- screenshots/
-|   |   |-- gameplay-1.png
-|   |   |-- gameplay-2.png
-|   |   `-- gameplay-3.png
 |   |-- scripts/
 |   |   |-- maincode.cs
 |   |   |-- animationcode.cs
